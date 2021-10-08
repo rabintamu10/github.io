@@ -31,7 +31,7 @@ body {
 }
 
 .branding{
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     margin: .5rem;
      align-content: center; 
      text-transform: uppercase;
@@ -95,8 +95,6 @@ body {
 .navbar-links {
     display: none;
     width: 100%;
-
-    
     
 }
 
@@ -114,9 +112,9 @@ body {
         text-align: center;
     }
     .navbar-links li a {
-        padding: 5rem 1 rem;
+        padding: 5rem 1rem;
         
-    }}
+    }
     #showcase{
     
     background: url(christina-branco-7P-wc2Z2Ujs-unsplash.jpg) no-repeat 0 -400px; 
